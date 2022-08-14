@@ -24,3 +24,7 @@ MySQL.
 <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
+
+### Eventos que Participei
+- NLW 2022 - Rocketseat  - Trilha Origin
+- Intensivão Python 2022 - Hashtag Programação
