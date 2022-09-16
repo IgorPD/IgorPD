@@ -1,5 +1,5 @@
 ### Olá, Sou o Igor Domingues 🖐️
-Estudante de graduação em Tecnologia em Análise e Desenvolvimento de Sistemas. Atualmente, procuro aprofundar meus conhecimentos em Python e Banco de Dados.
+Estudante de graduação em Tecnologia em Análise e Desenvolvimento de Sistemas. Atualmente, procuro aprofundar meus conhecimentos em Python.
 
 Ao decorrer do curso da faculdade adquiri conhecimentos nas seguintes áreas:
 C++,
