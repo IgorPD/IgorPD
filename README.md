@@ -1,7 +1,7 @@
 ### Olá, Sou o Igor Domingues 🖐️
 
 Sou estudante de graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, e apesar de trabalhar atualmente em outra área, meu objetivo é ingressar no mercado de programação. Durante meu curso, adquiri conhecimentos em diversas linguagens, incluindo C++, HTML/CSS, JavaScript, PHP, Delphi, MySQL, Python e Java.
-Neste ano, estou me dedicando especialmente ao meu TCC, que consiste na criação de um sistema de gestão de certificados que se possível, integrado com a base de alunos e professores do AVA do UniSalesiano. Nosso objetivo é fornecer à universidade uma solução para gerenciar seus certificados de forma eficiente e organizada. Para isso, estou aprofundando meus conhecimentos em Python e aprendendo ferramentas como SQLAlchemy, FastAPI, Docker e PostgreSQL.
+Neste ano, estou me dedicando especialmente ao meu TCC, que consiste na criação de um sistema de gestão de certificados. Nosso objetivo é fornecer à uma solução para gerenciar seus certificados de forma eficiente e organizada. Para isso, estou aprofundando meus conhecimentos em Python e aprendendo ferramentas como SQLAlchemy, FastAPI, Docker e PostgreSQL.
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-pd/)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorpd_/)
