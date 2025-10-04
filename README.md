@@ -1,6 +1,5 @@
 ### Olá, Sou o Igor Domingues 🖐️
 
-Trabalho com Programador Python numa empresa que oferece um sistema de gerenciamento web para órgãos públicos, realizo a raspagem dos dados para migrar sites de novos clientes para a nossa plataforma.
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-pd/)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorpd_/)
